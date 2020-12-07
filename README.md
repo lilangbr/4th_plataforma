@@ -30,8 +30,8 @@ Transform the previous algorithm into a <b>Rest API</b>.
 
 This API was developed on FLask Framework. 
 Script: <b>prova_desenvolvedores_4p_2.py</b>
-To run: $python3 prova_desenvolvedores_4p_2.py
-In your browser, go to http://127.0.0.1/5000/ and follow the instructions. 
+- To run: <b>$python3 prova_desenvolvedores_4p_2.py</b>
+- In your browser, go to http://127.0.0.1/5000/ and follow the instructions. 
 Or, for short, type the previous url followed by the space-separated values.
 
 Note: 
