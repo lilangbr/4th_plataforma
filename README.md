@@ -24,7 +24,7 @@ Given values from 0 to 15, generate a statistic of its occurrence in a bitmap im
 - $ python3 -m pip install -U pytest
 
 <b>$ py.test</b>
-![1th](images/2.png)
+![1th2](images/2.png)
 
 <h2><b>***** 2th challenge*****</b></h2>
 
@@ -61,6 +61,9 @@ Script: <b>prova_desenvolvedores_4p_3.py</b>
 - $ python3 -m pip install pandas
 - $ python3 -m pip install numpy
 
-
+<b>work in process</b>
+- It was very exciting! Unfortunately I need to respect the project deadline. But this project, once evaluated so far, will be continued! After all, the challenge was accepted!
+![3th](images/3.png)
+- May the force be with you!
 
 
