@@ -10,8 +10,12 @@ This challenge was developed in python.
 Script: <b>prova_desenvolvedores_4p_1.py</b>
 Requirements: python v3.x instaled
   
-To run unit tests, go to ./unit_tests and run py.test to run all tests. Or py.test name_of_file.py to run a particular test.
-Note: You must have pytest installed on your machine. See https://docs.pytest.org/en/stable/ for instructions.
+To run unit tests:
+- go to <b>./unit_tests</b> 
+- run py.test to run all tests. 
+  <b>(unit_tests)$ py.test</b>
+  (Or py.test name_of_file.py to run a particular test.)
+- Note: You must have pytest installed on your machine. See https://docs.pytest.org/en/stable/ for instructions.
 
 <b>$ py.test</b>
 ![1th](images/2.png)
