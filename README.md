@@ -13,7 +13,7 @@ Given values from 0 to 15, generate a statistic of its occurrence in a bitmap im
 - --------------------------------------
 - Requirements: python v3.x instaled
   
-<b>To run unit tests:</b>
+<b>******To run unit tests:</b>
 - go to <b>./unit_tests</b> 
 - To run: run py.test to run all tests. 
   <b>(unit_tests)$ py.test</b>
